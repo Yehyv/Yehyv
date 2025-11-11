@@ -1,119 +1,69 @@
-# Hi, I'm <Yehya Raouf>
+# 🧑‍💻 Yehya Raouf
 
-> 🇪🇬 مطوّر يعشق بناء منتجات عملية وسريعة — Backend/DS/Hardware tinkerer.
-> I ship useful things. Clean code, solid data, real impact.
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=00F0FF&center=true&vCenter=true&width=850&lines=Building+clean+backends+%26+data+pipelines;NestJS+%7C+SQL+%7C+Redis+%7C+Python+%7C+Plotly;Multi-tenant+platforms+%7C+ML+pipelines+%7C+BMS+projects;Learning+%26+shipping+every+day+🚀" />
-</p>
-
----
-
-## ⚡ Quick Bits
-
-* 🔭 Current focus: **EduGap** (multi-tenant course platform) & a **real‑estate analytics** capstone.
-* 🧪 I like reproducible notebooks, Group-aware splits, and tidy APIs.
-* 🧰 Side projects: scooter **battery packs (BMS/chargers)**, epoxy LED builds.
-* 🌍 Based in **Cairo, EG** · Open to remote collabs.
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-  <!-- Backends -->
-  <img alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="32"/>
-  <img alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
-  <img alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="32"/>
-  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/>
-  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32"/>
-  <!-- Data -->
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
-  <img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32"/>
-  <img alt="Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32"/>
-  <img alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32"/>
-  <!-- Tools -->
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32"/>
-</p>
-
----
-
-## 🚀 Highlights
-
-* **EduGap** – multi‑tenant online courses (progress tracking, i18n, B2B/B2C, Redis caching, tests, CI/CD).
-* **Vatix App** – robust REST APIs & backend systems (auth, pagination, DTO validation, metrics).
-* **Real‑Estate ML** – ridge/gbm baselines, custom features (*Cluster_Price_Index*, *Age×Area*, *Living/AboveGround*), clean evaluation.
-* **BMS Lab** – scooter pack diagnosis, cell matching, charger selection, identical‑form BMS sourcing.
-
----
-
-## 🧩 Featured Projects
-
-> ضع روابط ريبوهاتك هنا — add repos you want recruiters to open first.
-
-| Project                   | Stack                                   | Live / Demo                                                                                                |
-| ------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **EduGap**                | NestJS · TypeORM · MySQL · Redis        | [Repo](https://github.com/<YOUR_USERNAME>/edugap) · [Docs](https://github.com/<YOUR_USERNAME>/edugap/wiki) |
-| **House Price Analytics** | Python · Pandas · Scikit‑learn · Plotly | [Repo](https://github.com/<YOUR_USERNAME>/real-estate-analytics)                                           |
-| **BMS Toolkit**           | HW notes · chargers · cell DB           | [Repo](https://github.com/<YOUR_USERNAME>/bms-toolkit)                                                     |
-
----
-
-## 📊 Dev Metrics
-
-> استبدل `<YOUR_USERNAME>` باسم مستخدمك في الروابط التالية.
+> Backend Developer (NestJS | SQL | Redis) — Passionate about clean architecture, performance, and real-world products.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=0078FF&center=true&vCenter=true&width=700&lines=NestJS+Developer+%7C+8+Months+Experience;Building+Clean+Backends+and+Fast+APIs;Continuous+Learning+%26+Improving+Every+Day+🚀" />
 </p>
+
+---
+
+## 👋 About Me
+
+I'm **Yehya Raouf**, a backend software engineer with 8 months of experience building production-grade APIs and scalable systems using **NestJS**, **SQL**, and **Redis**.  
+I’m driven by clean architecture, efficient queries, and testable codebases that scale with business growth.  
+Currently based in **Cairo, Egypt**, and always open to collaborations or challenging projects.
+
+---
+
+## 🧠 Tech Stack
+
+**Languages:** TypeScript, JavaScript, SQL, C++  
+**Frameworks:** NestJS, Node.js, Express  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Tools:** Docker, Redis, Git, Postman, Jest  
+**Concepts:** Clean Architecture, SOLID, API Security, CI/CD, Integration Testing  
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Stack | Repo |
+|----------|--------------|--------|------|
+| **EduGap (Online Courses Platform)** | Multi-tenant backend with JWT/RBAC auth, Redis caching, rate limiting, and CI/CD pipelines. | NestJS · TypeORM · MySQL · Redis | 🔒 Private |
+| **Vatix App (E-Commerce)** | Backend architecture for scalable product and order management system. | NestJS · SQL · Docker | 🔒 Private |
+| **E-Learning APIs** | REST API with structured routes, controllers, and services for an education platform. | NestJS | [GitHub →](https://github.com/Yehyv/E-Learning-APIs) |
+| **Fawry Task** | Implementation of payment integration and transaction handling backend. | NestJS | [GitHub →](https://github.com/Yehyv/FawryTask) |
+| **Chat App (Real-Time)** | Real-time communication backend using WebSockets with JWT auth and CASL permissions. | NestJS · Socket.IO | [GitHub →](https://github.com/Yehyv/chat-app) |
+| **Kafka Log Activity** | Event-driven microservice for activity logging via Kafka streams. | NestJS · Kafka · MongoDB | [GitHub →](https://github.com/Yehyv/kafka-log-activity) |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=<YOUR_USERNAME>&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yehyv&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehyv&layout=compact&theme=default" />
 </p>
 
 ---
 
-## ✅ What I care about
+## 💼 Connect With Me
 
-* **DX**: clean requests, predictable responses, typed DTOs, sensible errors.
-* **Reproducibility**: pinned deps, seeds, fixed splits, report notebooks.
-* **Perf**: profile first, cache after, measure always.
-
----
-
-## 📬 Reach Me
-
-<p>
-  <a href="https://linkedin.com/in/<YOUR_LINKEDIN>"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:<YOUR_EMAIL>"><img alt="Email" src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/<YOUR_TELEGRAM>"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
-</p>
+📄 [View My CV](https://github.com/Yehyv/Yehya-Abd-Elraouf-CV.pdf)  
+💼 [LinkedIn](https://www.linkedin.com/in/yehya-abdelraouf-262195196/)  
+📧 **yehyaraouf.me@gmail.com**
 
 ---
 
-## 🧠 Now
+## 🧩 Currently Learning
 
-* 📚 Self‑learning track: systems design, MLE workflows, and production observability.
-* 🗺️ Next up: feature store + experiment tracker for the real‑estate project.
-
----
-
-### 🧩 Setup Instructions (Quick)
-
-1. **Create profile repo**: make a new public repo **exactly** named `<YOUR_USERNAME>` (same as your GitHub username).
-2. **Add this README.md** to that repo.
-3. Replace all placeholders: `<YOUR_USERNAME>`, `<YOUR_NAME>`, `<YOUR_LINKEDIN>`, `<YOUR_EMAIL>`, etc.
-4. Optional extras you can copy:
-
-   * Visitor badge: `![visitors](https://komarev.com/ghpvc/?username=<YOUR_USERNAME>)`
-   * Trophies: `https://github-profile-trophy.vercel.app/?username=<YOUR_USERNAME>&theme=onedark&row=1&column=6`
-   * Activity graph: `https://github-readme-activity-graph.vercel.app/graph?username=<YOUR_USERNAME>&theme=react-dark`
-
-> **Tip**: Keep it short, visual, and recruiter‑friendly. عربي + English = perfect.
+- Advanced **NestJS** patterns (CQRS, interceptors, guards)  
+- Scalable **Microservice** architectures  
+- Real-time APIs & background job orchestration  
 
 ---
 
-<sub>Theme: neon‑clean · last updated: 2025‑11‑11</sub>
+## 💬 Quote I Live By
+
+> “First, solve the problem. Then, write the code.” — John Johnson
