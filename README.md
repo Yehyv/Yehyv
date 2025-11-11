@@ -78,12 +78,5 @@ TypeScript • NestJS • SQL • Redis • Docker
 
 ---
 
-### 🛠 Quick Setup (for this README)
-1. Create a public repo named **`Yehyv`** (must match your GitHub username).  
-2. Save this file as **`README.md`** in that repo.  
-3. (Optional) Upload your CV as **`Yehya-Abd-Elraouf-CV.pdf`** in the repo root to activate the CV button.  
-4. Enjoy your shiny profile ✨
-
----
 
 <sub>Theme: Flashy Minimal · Last update: 2025‑11‑11</sub>
