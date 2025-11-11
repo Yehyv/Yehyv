@@ -1,69 +1,89 @@
-# 🧑‍💻 Yehya Raouf
+<div align="center">
+  
+# ⚡️ Yehya Raouf — NestJS Backend Developer  
 
-> Backend Developer (NestJS | SQL | Redis) — Passionate about clean architecture, performance, and real-world products.
+**Building clean backends & blazing‑fast APIs**  
+TypeScript • NestJS • SQL • Redis • Docker
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=0078FF&center=true&vCenter=true&width=700&lines=NestJS+Developer+%7C+8+Months+Experience;Building+Clean+Backends+and+Fast+APIs;Continuous+Learning+%26+Improving+Every+Day+🚀" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yehya%20Abdelraouf-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehya-abdelraouf-262195196/)
+[![Portfolio](https://img.shields.io/badge/CV-View%20My%20Resume-111?logo=readme&labelColor=000)](https://github.com/Yehyv/Yehya-Abd-Elraouf-CV.pdf)
+[![GitHub Followers](https://img.shields.io/github/followers/Yehyv?style=flat&label=Followers)](https://github.com/Yehyv?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Yehyv&style=flat)](https://github.com/Yehyv)
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&duration=2600&center=true&vCenter=true&width=900&lines=NestJS+Developer+%E2%80%94+Clean+Architecture+%26+Secure+APIs;TypeORM+%7C+SQL+%7C+Redis+%7C+Docker;Testing+%E2%80%A2+CI%2FCD+%E2%80%A2+Performance+Tuning;Always+learning%2C+always+shipping+%F0%9F%9A%80"/>
 </p>
 
----
-
-## 👋 About Me
-
-I'm **Yehya Raouf**, a backend software engineer with 8 months of experience building production-grade APIs and scalable systems using **NestJS**, **SQL**, and **Redis**.  
-I’m driven by clean architecture, efficient queries, and testable codebases that scale with business growth.  
-Currently based in **Cairo, Egypt**, and always open to collaborations or challenging projects.
+</div>
 
 ---
 
-## 🧠 Tech Stack
+## 🌟 About Me
+- Backend engineer with **~8 months** hands‑on NestJS experience delivering **production APIs**.  
+- Obsessed with **clean architecture**, **typed DTOs**, **reliable tests**, and **measurable performance**.  
+- Based in **Cairo, Egypt** — open to impactful collaborations and backend challenges.
 
-**Languages:** TypeScript, JavaScript, SQL, C++  
-**Frameworks:** NestJS, Node.js, Express  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Tools:** Docker, Redis, Git, Postman, Jest  
-**Concepts:** Clean Architecture, SOLID, API Security, CI/CD, Integration Testing  
-
----
-
-## 🚀 Projects
-
-| Project | Description | Stack | Repo |
-|----------|--------------|--------|------|
-| **EduGap (Online Courses Platform)** | Multi-tenant backend with JWT/RBAC auth, Redis caching, rate limiting, and CI/CD pipelines. | NestJS · TypeORM · MySQL · Redis | 🔒 Private |
-| **Vatix App (E-Commerce)** | Backend architecture for scalable product and order management system. | NestJS · SQL · Docker | 🔒 Private |
-| **E-Learning APIs** | REST API with structured routes, controllers, and services for an education platform. | NestJS | [GitHub →](https://github.com/Yehyv/E-Learning-APIs) |
-| **Fawry Task** | Implementation of payment integration and transaction handling backend. | NestJS | [GitHub →](https://github.com/Yehyv/FawryTask) |
-| **Chat App (Real-Time)** | Real-time communication backend using WebSockets with JWT auth and CASL permissions. | NestJS · Socket.IO | [GitHub →](https://github.com/Yehyv/chat-app) |
-| **Kafka Log Activity** | Event-driven microservice for activity logging via Kafka streams. | NestJS · Kafka · MongoDB | [GitHub →](https://github.com/Yehyv/kafka-log-activity) |
+> “Ship value, not just code.”
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Tech Stack
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yehyv&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehyv&layout=compact&theme=default" />
-</p>
-
----
-
-## 💼 Connect With Me
-
-📄 [View My CV](https://github.com/Yehyv/Yehya-Abd-Elraouf-CV.pdf)  
-💼 [LinkedIn](https://www.linkedin.com/in/yehya-abdelraouf-262195196/)  
-📧 **yehyaraouf.me@gmail.com**
+**Core:** NestJS · Node.js · TypeScript · Express  
+**Databases:** MySQL · PostgreSQL · MongoDB · TypeORM · Prisma  
+**Infra & Tools:** Docker · Redis · Git/GitHub · Postman/Insomnia · Jest · Swagger  
+**Practices:** SOLID · Clean Architecture · Auth (JWT/RBAC) · Rate Limiting · Caching · CI/CD · Integration Testing
 
 ---
 
-## 🧩 Currently Learning
+## 🚀 Featured Work
 
-- Advanced **NestJS** patterns (CQRS, interceptors, guards)  
-- Scalable **Microservice** architectures  
-- Real-time APIs & background job orchestration  
+> Some repos are private for client confidentiality — public ones below 👇
+
+| Project | Highlights | Stack | Link |
+|---|---|---|---|
+| **EduGap** *(Private)* | Multi‑tenant courses backend, JWT/RBAC, Redis caching, rate‑limit, CI/CD, monitoring | NestJS · TypeORM · MySQL · Redis | 🔒 |
+| **Vatix App** *(Private)* | E‑commerce style APIs, orders/products, optimized SQL, containerized dev | NestJS · SQL · Docker | 🔒 |
+| **E‑Learning APIs** | Structured REST APIs, controllers/services layering, Swagger docs | NestJS | 🌐 [Repo](https://github.com/Yehyv/E-Learning-APIs) |
+| **Fawry Task** | Payments integration & transaction handling with clean modules | NestJS | 🌐 [Repo](https://github.com/Yehyv/FawryTask) |
+| **Chat App (Real‑Time)** | WebSocket gateway, JWT auth, CASL permissions, groups & DM | NestJS · Socket.IO | 🌐 [Repo](https://github.com/Yehyv/chat-app) |
+| **Kafka Log Activity** | Event‑driven user activity logging microservice | NestJS · Kafka · MongoDB | 🌐 [Repo](https://github.com/Yehyv/kafka-log-activity) |
 
 ---
 
-## 💬 Quote I Live By
+## 📊 Developer Metrics
 
-> “First, solve the problem. Then, write the code.” — John Johnson
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Yehyv&show_icons=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yehyv&layout=compact)
+
+![Streak](https://streak-stats.demolab.com?user=Yehyv)
+  
+</div>
+
+---
+
+## 🧠 What I’m into right now
+- Advanced NestJS patterns (**guards, interceptors, pipes, CQRS**)
+- **Performance tuning** (indexes, query profiling, caching)
+- **Background jobs** & real‑time systems
+
+---
+
+## 🤝 Let’s Connect
+- 💼 **LinkedIn:** [Yehya Abdelraouf](https://www.linkedin.com/in/yehya-abdelraouf-262195196/)  
+- 📄 **CV:** Add your PDF to your profile repo as `Yehya-Abd-Elraouf-CV.pdf` then this badge will work.  
+- ✉️ **Email:** `yehyaraouf.me@gmail.com`
+
+---
+
+### 🛠 Quick Setup (for this README)
+1. Create a public repo named **`Yehyv`** (must match your GitHub username).  
+2. Save this file as **`README.md`** in that repo.  
+3. (Optional) Upload your CV as **`Yehya-Abd-Elraouf-CV.pdf`** in the repo root to activate the CV button.  
+4. Enjoy your shiny profile ✨
+
+---
+
+<sub>Theme: Flashy Minimal · Last update: 2025‑11‑11</sub>
